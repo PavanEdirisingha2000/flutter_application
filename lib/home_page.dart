@@ -11,7 +11,7 @@ Widget build(BuildContext context){
     elevation: 4,
      ),
     body: const Center(
-        child: Text("Hellow World"),
+        child: Text("Hello World"),
     ));
   
 }
